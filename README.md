@@ -16,6 +16,6 @@ From 05/11/2026 To 05/21/2026
   * May 21, 15:00-18:00 (CET)
 
 ## Professors
-Sergio Martínez-Aranda, Assistant Professor at UniZar
+Sergio Martínez-Aranda (sermar@unizar.es), Assistant Professor at UniZar
 
-Mario Morales-Hernández, Professor at UniZar
+Mario Morales-Hernández (mmorales@unizar.es), Professor at UniZar
